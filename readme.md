@@ -11,6 +11,7 @@ Simple quotes is a basic CRUD system built with node, express & mongodb. I was l
 ## Getting Started
 
 Clone the repository to your local machine or download the zip file to your pc. Then run the following command:
+
 `npm run dev`
 
 
